@@ -1,0 +1,6 @@
+name: gog
+version: '${version}'
+main: com.damp11113.gog.gog
+api-version: 1.18
+authors: [damp11113]
+description: game outsite game backend
